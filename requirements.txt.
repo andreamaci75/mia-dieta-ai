@@ -1,0 +1,8 @@
+streamlit
+    google-generativeai
+    plotly
+    ```
+
+Dopo aver salvato questo file, Streamlit si riavvierà da solo e l'app dovrebbe apparire.
+
+**Il link è pronto?** Se l'app si carica, prova subito a scrivere "Ho mangiato una mela" e guarda come la tua mascotte e Gemini ti rispondono! Se ti dà ancora errore, incollamelo qui.
