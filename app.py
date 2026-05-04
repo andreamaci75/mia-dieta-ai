@@ -3,7 +3,7 @@ import google.generativeai as genai
 import plotly.graph_objects as go
 
 # Configurazione Gemini
-genai.configure(api_key="LA_TUA_CHIAVE_QUI")
+genai.configure(api_key="AIzaSyDpwxYFg4wTSN4iN1Jo-EgYOXSXR1wjcDU")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 st.set_page_config(page_title="AI Diet Coach", page_icon="🍎")
